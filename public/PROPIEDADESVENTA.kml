@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1BhI-cysDsjzSP5n32bw4OxQ8Uq9JppV7">
+	<name>PROPIEDADESVENTA</name>
+	<gx:CascadingStyle kml:id="__managed_style_36206C07643EF20E6B84_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ab47bc&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_36206C07643EF20E6B84">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_36206C07643EF20E6B84_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_36206C07643EF20E6B84_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+		<gx:CascadingStyle kml:id="__managed_style_093D50190F3EF20E6B84_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ab47bc&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0E8CE298DB3EF20E6B83_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ef5350&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E8CE298DB3EF20E6B83">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0E8CE298DB3EF20E6B83_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0E8CE298DB3EF20E6B83_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+		<gx:CascadingStyle kml:id="__managed_style_0E8CE298DB3EF20E6B83_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ef5350&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+					<gx:CascadingStyle kml:id="__managed_style_02F647BF173EF20E6B81_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ab47bc&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+		<gx:CascadingStyle kml:id="__managed_style_36206C07643EF20E6B84_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ab47bc&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_093D50190F3EF20E6B84_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ab47bc&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+		<gx:CascadingStyle kml:id="__managed_style_02F647BF173EF20E6B81_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ab47bc&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+		<StyleMap id="__managed_style_093D50190F3EF20E6B84">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_093D50190F3EF20E6B84_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_093D50190F3EF20E6B84_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_02F647BF173EF20E6B81">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_02F647BF173EF20E6B81_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_02F647BF173EF20E6B81_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0EDCA457B836033677E8">
+		<name>LOTE OASIS</name>
+		<description><![CDATA[<p class="MsoNormal"><b><i><u>Terreno en Oasis Bajo – 7.385,81 m²</u></i></b><br></p><h3><b>📍 Ubicación privilegiada</b><br></h3><p>Situada en un área de <b>alta categoría residencial y turística</b>, rodeada de un entorno natural excepcional. Su cercanía con el centro de la ciudad y su acceso a servicios esenciales la convierten en una oportunidad inigualable para inversión y desarrollo.<br></p><h3><b>📐 Zonificación y potencial de desarrollo</b><br></h3><p><br></p><div>📌 <b>Superficie total:</b> 7.385,81 m²<br></div><div>📌 <b>Factor de Ocupación del Suelo (FOS):</b> 30%<br></div><div>📌 <b>Altura máxima permitida:</b> 9,50 metros (planta baja y dos pisos altos)<br></div><div>📌 <b>Frente mínimo del lote:</b> 15 metros<br></div><div>📌 <b>Superficie mínima de lote:</b> 600 m²<br></div><div>📌 <b>Retiros:</b><br></div><p><br></p><ul><li><p><b>Fondo:</b> 10 metros (máximo)<br></p></li><li><p><b>Frente:</b> 3 metros en pendientes menores a 15º y 5 metros en pendientes mayores a 15º<br></p></li><li><p><b>Laterales:</b> 3 metros (o unilateral en lotes menores a 15 metros de frente)<br></p></li></ul><h3><b>🏡 Usos permitidos</b><br></h3><p><br></p><div>✅ <b>Residencial</b>: Viviendas unifamiliares y multifamiliares.<br></div><div>✅ <b>Turístico</b>: Hosterías <b>2 y 3 estrellas</b>, cabañas <b>2 y 3 estrellas</b>, <b>apart-hotel 3 estrellas</b>.<br></div><div>✅ <b>Otros usos condicionados</b>: Hogar infantil, residencia geriátrica.<br></div><div>✅ <b>Estacionamiento</b>: 100% de las unidades funcionales deben contar con espacio propio.<br></div><p><br></p><h3><b>🏔️ Densidad de construcción según pendiente</b><br></h3><p><br></p><div>✔ Para lotes con <b>pendiente hasta 12%</b>: 1 unidad cada <b>150 m²</b><br></div><div>✔ Para lotes con <b>pendiente de 13% a 20%</b>: 1 unidad cada <b>180 m²</b><br></div><div>✔ Para lotes con <b>pendiente de 21% a 50%</b>: 1 unidad cada <b>200 m²</b><br></div><div>✔ Para lotes con <b>pendiente mayor al 50%</b>: <b>Una única construcción principal por predio</b>, según estudio ambiental.<br></div><p><br></p><h3><b>🌿 Entorno y valor estratégico</b><br></h3><p>Este lote es <b>el único con estas características en toda la ciudad</b>, combinando <b>privacidad, exclusividad y un marco natural incomparable</b>. El Arroyo Trabunco aporta un valor paisajístico y ambiental único, ideal para proyectos que buscan integrar naturaleza y confort.<br></p><p>💰 <b>Valor: USD 1.800.000</b><br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-71.32475872336919</longitude>
+			<latitude>-40.15273016804426</latitude>
+			<altitude>706.2884704089644</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000041232815</gx:fovy>
+			<range>1104.817290377832</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02F647BF173EF20E6B81</styleUrl>
+		<Point>
+			<coordinates>-71.32409444615101,-40.15260090431199,704.3756337309337</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="01C2FD09D43606DC2FF7">
+		<name>HAS ORILLAS DE CALEUFU</name>
+		<description><![CDATA[<h3><b>Orillas de Caleufú</b><br></h3><p><br></p><div>&nbsp;<b>Valor:</b> U$D 420.000<br></div><div>&nbsp; <b>Ubicación:</b> Orillas del río Caleufú, en un entorno natural privilegiado, ideal para turismo y recreación.<br></div><div><b>Superficie:</b> 13.000 m²<br></div><div><b>Frente sobre el río:</b> 80 metros de costa sobre el río Caleufú, ofreciendo vistas panorámicas y acceso directo al agua.<br></div><p><br></p><h3><b>Accesibilidad y Ubicación</b><br></h3><p><br></p><div><b>Acceso:</b> Se llega a través de rutas consolidadas, con caminos que permiten un fácil ingreso en cualquier época del año.<br></div><div><b>Rutas cercanas:</b> Conectado con las principales vías de acceso a San Martín de los Andes, Villa La Angostura y Bariloche, lo que facilita el turismo y la logística.<br></div><div><b>Entorno:</b> Un área rodeada de naturaleza virgen, con bosques, montañas y el río Caleufú, ideal para actividades al aire libre como pesca, kayak, trekking y cabalgatas.<br></div><p><br></p><h3><b>Servicios</b><br></h3><div><b>Energía:</b> Alimentación por generador.<br></div><div><b>Agua:</b> Suministro por caño troncal con toma de río, garantizando abastecimiento sostenible.<br></div><h3><b>Potencial de Desarrollo</b><br></h3><p><br></p><div><b>Lote apto para turismo y desarrollo comercial</b><br></div><div><b>Complejo de cabañas:</b> Ubicación ideal para un emprendimiento turístico de cabañas en la naturaleza.<br></div><div><b>Emprendimiento turístico:</b> Puede desarrollarse un eco-lodge, glamping o un centro recreativo para turismo aventura.<br></div><div><b>Desarrollo sustentable:</b> Perfecto para un proyecto de turismo ecológico con enfoque en el cuidado del medioambiente.<br></div><p><br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-71.17570600026737</longitude>
+			<latitude>-40.49975399939966</latitude>
+			<altitude>825.1272102879913</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>624.1781743168394</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02F647BF173EF20E6B81</styleUrl>
+		<Point>
+			<coordinates>-71.17500304305337,-40.49949316293723,825.4486409295596</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="044DBB7B3A3608E3A6CF">
+		<name>LOTES KALEUCHE ALTO</name>
+		<description><![CDATA[<p><br></p><div><b>Inversión Inteligente a Futuro – Lotes con Vista al Lago Lolog</b><br></div><div><b>Manzana 139 – UF 34 a 38</b><br></div><div><b>Superficie por lote: 700 m²</b><br></div><div><b>Valor desde USD 11.000 / 15.000 cash</b><br></div><div><b>Opción de financiación y propuestas por el conjunto de 5 lotes</b><br></div><p><br></p><p>Te presentamos una <b>oportunidad única para capitalizarte en tierra</b>, con cinco lotes escriturados, contiguos y con <b>impactantes vistas panorámicas al Lago Lolog</b>, en un entorno natural privilegiado.<br></p><p>Ubicados sobre la <b>Ruta Nacional 62</b>, a tan solo <b>20 minutos del centro de San Martín de los Andes</b>, en una zona con marcado crecimiento residencial y turístico.<br></p><p>Los terrenos <b>no cuentan con servicios</b>, lo que permite acceder hoy a precios muy accesibles en un área con gran proyección de desarrollo. Son ideales para quien piensa a mediano o largo plazo y busca asegurar metros cuadrados en una de las zonas más bellas y tranquilas de la Patagonia.<br></p><p><b>Características destacadas:</b><br></p><ul><li><p>Escritura inmediata en cada lote<br></p></li><li><p>Potencial de revalorización<br></p></li><li><p>Excelente acceso y conectividad<br></p></li><li><p>Inversión con bajo riesgo y alto margen de crecimiento<br></p></li><li><p>Posibilidad de adquirir hasta 3.500 m² en una sola operación<br></p></li></ul><p>Una <b>decisión estratégica</b> para quienes entienden el valor de anticiparse al mercado.<br></p><p><br></p><p><br></p><div><br></div><p><br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-71.31280472007059</longitude>
+			<latitude>-40.09674262116812</latitude>
+			<altitude>1041.68904285186</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3450.99249961786</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02F647BF173EF20E6B81</styleUrl>
+		<Point>
+			<coordinates>-71.32658910718146,-40.08920943792356,1128.643448638823</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="0C6D5B405D3610FB884B">
+		<name>LOTE CJN BELLO</name>
+		<description><![CDATA[<p class="MsoNormal"><br></p><p><br></p><div><b>Terreno en Venta – Callejón de Bello, San Martín de los Andes</b><br></div><div><b>Superficie: 800 m² | UF 8</b><br></div><div><b>Valor: USD 120.000</b><br></div><p><br></p><p>Ubicado en una de las zonas residenciales más buscadas de San Martín de los Andes, este lote ofrece una excelente oportunidad para construir tu vivienda familiar en un entorno tranquilo, con acceso rápido al casco urbano.<br></p><p><b>Características destacadas:</b><br></p><ul><li><p>Terreno plano y soleado<br></p></li><li><p>Acceso asfaltado<br></p></li><li><p>Todos los servicios disponibles: agua corriente, electricidad, gas natural y fibra óptica<br></p></li><li><p><b>FOS: 76,6 m²</b><br></p></li></ul><p>La Unidad Funcional 8 se encuentra dentro de un entorno consolidado y de baja densidad, ideal para quienes buscan calidad de vida y conexión con la naturaleza sin resignar comodidad.<br></p><p><br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-71.30008330001587</longitude>
+			<latitude>-40.13505560009459</latitude>
+			<altitude>725.627515229826</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>627.8011112279638</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02F647BF173EF20E6B81</styleUrl>
+		<Point>
+			<coordinates>-71.30014676797302,-40.13506679782964,725.4636189851171</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="05676F7F583612FE86BD">
+		<name>HUILQUIL CASONA DE MONTAÑA</name>
+		<description><![CDATA[<div>CASA TURISTICA PARA 10712 PAX<br></div><div>Valor temporada 2025<br></div><div>U$d 570 baja&nbsp;<br></div><div>600 media<br></div><div>650 alta<br></div><div><br></div><div>Abre el 4 de ABRIL//<br></div>]]></description>
+		<LookAt>
+			<longitude>-71.28268010174658</longitude>
+			<latitude>-40.1201497067261</latitude>
+			<altitude>749.1906500417286</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>743.5448506483955</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E8CE298DB3EF20E6B83</styleUrl>
+		<Point>
+			<coordinates>-71.28179831304593,-40.1193154640638,765.5140833686887</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="04523FDE91363717FE6D">
+		<name>CASA LAS MARIAS DEL VALLE</name>
+		<description><![CDATA[<p class="MsoNormal"><b><i><u>Casa en Las Marías del Valle – 4.492 m²</u></i></b><br></p><p class="MsoNormal"><br></p><div><span>&nbsp;</span><b>Ubicación:</b> Las
+Marías del Valle, San Martín de los Andes<br></div><div><span>&nbsp;</span><b>Superficie construida:</b> 291,80 m²<br></div><div><span>&nbsp;</span><b>Superficie libre:</b> 4.200,60 m²<br></div><div>Costa de rio quilquihue<br></div><div><span>&nbsp;</span><b>Distribución:</b> 4 dormitorios, 3
+baños, cocina amplia, living con hogar a leña, galería techada<br></div><div><span>&nbsp;</span><b>Características:</b> Vistas abiertas,
+rodeada de bosques nativos, con excelente calidad constructiva<br></div><div><span>&nbsp;</span><b>Valor:</b> USD 1.220.000<br></div><p><br></p><div>🌲 <b>Casa con alma de río – Las Marías del Valle, San Martín de los Andes</b><br></div><div>📍 <i>Propiedad con costa sobre el río Quilquihue, a minutos del aeropuerto</i><br></div><p><br></p><p>Imaginá despertar con el sonido del agua corriendo, ver el sol filtrarse entre los árboles nativos y vivir rodeado de bosque y serenidad. Esta casa no solo está <b>inmersa en la naturaleza</b>, sino que <b>interactúa desde adentro con el fluir del río Quilquihue</b>, que bordea la propiedad con su energía viva.<br></p><p>✨ <b>Características principales:</b><br></p><ul><li><p>Terreno de <b>4.492 m²</b>, con <b>costa de río</b> y vistas completamente abiertas<br></p></li><li><p>Casa de <b>291,80 m²</b>, desarrollada con excelente calidad constructiva<br></p></li><li><p>4 dormitorios amplios<br></p></li><li><p>3 baños<br></p></li><li><p>Cocina generosa y funcional<br></p></li><li><p>Living con hogar a leña y vistas envolventes<br></p></li><li><p>Galería techada para disfrutar del entorno en cualquier estación<br></p></li></ul><p><br></p><div>🌿 <b>Entorno único:</b><br></div><div>Bosques nativos, tranquilidad absoluta y el río como protagonista. Ideal para quienes buscan privacidad, belleza natural y una conexión profunda con el paisaje patagónico.<br></div><p><br></p><p><br></p><div>🚗 <b>Ubicación estratégica:</b><br></div><div>A pocos minutos del aeropuerto de Chapelco y con excelente acceso a San Martín de los Andes.<br></div><p><br></p><p>💰 <b>Valor: USD 1.220.000</b><br></p><p>📌 Una propiedad <b>de alma patagónica</b>, pensada para quienes valoran el silencio, el diseño en armonía con el entorno y el privilegio de tener un río en casa.<br></p><p><br></p><div>📲 Consultá para recibir más info o agendar tu visita.<br></div><div><i>Denise Catalán Bienes Raíces</i> 🗝<br></div><div>Lo auténtico, al servicio de tu vida.<br></div><p><br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-71.15113001880017</longitude>
+			<latitude>-40.07678000370311</latitude>
+			<altitude>783.4235885173953</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99979754240528</gx:fovy>
+			<range>629.6828541647847</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02F647BF173EF20E6B81</styleUrl>
+		<Point>
+			<coordinates>-71.15082686894603,-40.07641336598312,782.9533902333384</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="08CB99096437041BCD87">
+		<name>CASA MIRALEJOS</name>
+		<description><![CDATA[<p class="MsoNormal"><b><i><u>. Casa en Barrio de Campo Miralejos – terreno </u></i></b><i><u>de
+2.540 m², casa de 260 m² cubiertos y 178 m² semicubiertos.</u></i><br></p><p class="MsoNormal"><br></p><div><b>Ubicación:</b> Barrio de Campo Miralejos, San Martín de
+los Andes<br></div><div><b>Superficie construida:</b> 260 m²<br></div><div><b>Superficie semicubierta:</b> 178 m²<br></div><div><b>Superficie del lote:</b> 2.540 m²<br></div><div><b>Distribución:</b> 4 dormitorios, 4 baños, cocina con barra, living con hogar
+a leña, playroom, cava y galería techada.<br></div><div><b>Características:</b> Vistas panorámicas al Lago Lácar y valle, rodeada de
+naturaleza, materiales de primera calidad (madera de lenga, pisos de incienso).<br></div><div><b>Valor:</b> USD 520.000<br></div><p><br></p><div>🏔️ <b>Viví la experiencia de la montaña en Estancia Miralejos – San Martín de los Andes</b><br></div><div>📍 <i>UF 86 – Casa con vistas panorámicas al Lago Lácar y Volcán Lanín</i><br></div><p><br></p><p><br></p><div>Para vos que buscás algo más que una casa…<br></div><div>Esta propiedad es <b>una experiencia de vida en altura</b>, a 1.100 metros sobre el nivel del mar, en un entorno natural absolutamente único. Ubicada en <b>Estancia Miralejos</b>, un exclusivo Club de Campo de 430 hectáreas en pleno cordón montañoso de Chapelco, a tan solo 30 minutos del centro de San Martín de los Andes y con acceso directo al centro de esquí por camino interno.<br></div><p><br></p><p>🌿 <b>La casa perfecta para espíritus aventureros y amantes de la montaña:</b><br></p><ul><li><p>Gran living con chimenea y vistas imponentes al lago y la cordillera<br></p></li><li><p>Cocina integrada con barra americana<br></p></li><li><p>Dormitorio principal en suite con vestidor + otra suite matrimonial en planta alta<br></p></li><li><p>Playroom con 4 camas y baño compartimentado<br></p></li><li><p>Taller/depósito con instalaciones para quincho<br></p></li><li><p>Lavadero y sala de máquinas<br></p></li><li><p>Calefacción a leña, gas y electricidad<br></p></li><li><p>Ventanas con diseño funcional para limpieza, todas en lenga con DVH<br></p></li><li><p>Hermoso deck con parrilla y fogón exterior<br></p></li><li><p>Doble garage + departamento anexo con 1 dormitorio, baño y cocina<br></p></li></ul><p>🌸 Jardines diseñados con riego por aspersión, vivero, cultivos, frutillares y frambuesas silvestres que crecen en terrazas naturales.<br></p><p>🏡 Construida por el Arq. Luzuriaga, con maderas nobles (lenga, ñire, incienso, álamo) y piedra del propio terreno. Calidad y calidez patagónica en cada rincón.<br></p><p>🌨️ Diseño pensado para el clima de montaña: protegida del viento y con techos que evacuan la nieve sin bloquear accesos.<br></p><p><br></p><div>📲 <b>Si soñás con una vida rodeado de naturaleza, paz y vistas que te dejen sin aliento, esta casa es para vos.</b><br></div><div>Consultame y coordinamos una visita.<br></div><p><br></p><p><br></p><div>📌 <i>Denise Catalán Bienes Raíces</i> 🗝<br></div><div>Autenticidad en cada propiedad que ofrecemos.<br></div><p><br></p><div><br></div>]]></description>
+		<styleUrl>#__managed_style_093D50190F3EF20E6B84</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-71.279898,-40.163016,0</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="07363507D0370F197F50">
+		<name>TERRENO CIPRESES</name>
+		<description><![CDATA[<p class="MsoNormal"><b><i><u>Terreno en Cipreses – 1.125 m² CON COSTA DE ARROYO TRABUNCO</u></i></b><br></p><p class="MsoNormal"><br></p><div><span>&nbsp;</span><b>Ubicación:</b> Barrio Cipreses, San Martín de los Andes<br></div><div><span>&nbsp;</span><b>Dimensiones:</b> 25 x 45 metros<br></div><div><span>&nbsp;</span><b>Servicios:</b> Todos los servicios
+disponibles (luz, agua, gas y cloacas)<br></div><div><span>&nbsp;</span><b>Características:</b> Ubicado en una
+zona residencial de alta demanda, con entorno natural y <span>&nbsp;&nbsp;</span>tranquilidad asegurada<br></div><div><span>&nbsp;</span><b>Valor:</b> USD 700.000<br></div><p><b>Ordenanza Aplicable – Terreno de 1.125 m² en Barrio Cipreses</b><br></p><p><br></p><div><b>Ubicación:</b> Barrio Cipreses, San Martín de los Andes<br></div><div><b>Dimensiones:</b> 25 x 45 metros<br></div><p><br></p><p>El terreno se encuentra dentro del Área Residencial Los Cipreses, sector Barrio Jardín, y está sujeto a las siguientes regulaciones urbanísticas:<br></p><p><br></p><div>✅ <b>Usos permitidos:</b> Vivienda individual o colectiva, hogar infantil, residencia geriátrica, guardería, jardín de infantes, hotelería (hotel, hostería, apart hotel, cabañas).<br></div><div>✅ <b>Superficie mínima del lote:</b> 450 m²<br></div><div>✅ <b>Altura máxima de edificación:</b> 9,50 m (PB + 2 plantas)<br></div><div>✅ <b>FOS (Factor de Ocupación del Suelo):</b> 30%<br></div><div>✅ <b>Retiros:</b><br></div><p><br></p><ul><li><p>Frente: 3,00 m<br></p></li><li><p>Unilaterales: 3,00 m (para frentes mayores a 12,50 m)<br></p></li><li><p>Bilaterales: 3,00 m (para frentes mayores a 20,00 m)<br></p></li><li><p>Fondo: Máximo 10,00 m<br></p></li></ul><p>Se prohíbe la construcción en los retiros laterales.<br></p><p><br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-71.3370167366196</longitude>
+			<latitude>-40.15308762784378</latitude>
+			<altitude>664.2243456909654</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00034483869192</gx:fovy>
+			<range>168.9838440297899</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02F647BF173EF20E6B81</styleUrl>
+		<Point>
+			<coordinates>-71.3375820890827,-40.15075868523154,664.0696132839448</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="099130585137BE3FB633">
+		<name>TERRENO ALIHUEN ALTO</name>
+		<description><![CDATA[<div>1.700 m2<br></div><div>todos los servicios<br></div><div>Valo<b></b>r&nbsp; usd 45 mil<br></div><div>Pendiente mayor a 45 °<br></div><p><b>Alihuén Alto – Lote de 1.700 m² a 250 metros de la Ruta al Lago Lolog</b><br></p><p>Ubicación estratégica, entorno natural impactante y una pendiente que es, lejos de un obstáculo, una verdadera oportunidad para quienes piensan en grande.<br></p><p><br></p><div>Este lote de <b>1.700 m²</b> se encuentra a solo <b>250 metros de la Ruta Nacional 62</b>, camino al Lago Lolog, en la reconocida zona de <b>Alihuén Alto</b>.<br></div><div>Cuenta con <b>todos los servicios disponibles</b>: luz, agua y gas por red.<br></div><p><br></p><p>📌 <b>Características principales:</b><br></p><ul><li><p>Pendiente pronunciada (mayor a 45°), ideal para una <b>implantación arquitectónica escalonada</b><br></p></li><li><p>Perfecto para <b>emprendimientos turísticos</b> que busquen vistas, privacidad y una estética integrada al entorno<br></p></li><li><p>Posibilidad de desarrollar <b>cabañas, tiny houses, o propuestas sustentables</b>, aprovechando cada metro del relieve natural<br></p></li></ul><p>💡 <b>Inversión inteligente</b>: un lote a un valor accesible, en una zona consolidada, con alta demanda turística y a minutos del centro de San Martín de los Andes.<br></p><p><b>Valor: USD 45.000</b><br></p><p>Consultá para ideas de implantación, referencias de obras en terrenos similares y acompañamiento en todo el proceso desde el proyecto hasta la construcción.<br></p><p><br></p><div><b>Denise Catalán Bienes Raíces</b><br></div><div>Visión | Territorio | Proyectos con propósito<br></div><p><br></p><div><br></div>]]></description>
+		<styleUrl>#__managed_style_093D50190F3EF20E6B84</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-71.318995,-40.127457,0</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="0BE59C84B238918C2DA6">
+		<name>LOTE G. MASANA</name>
+		<description><![CDATA[<div>1.135,69 M2&nbsp;<br></div><div>LUZ Y GAS DE RED<br></div><div>valor usd 45 mil&nbsp;<br></div><div>&nbsp;<b>Oportunidad en Kaleuche – Lote de 1.135 m² con vistas a Chapelco y posibilidad de desarrollo</b><br></div><p>Ubicado en el <b>fondo de cul de sac sobre calle Gerardo Masari</b>, a metros del <b>camino Ruta Nacional 62 hacia Lago Lolog</b>, este lote ofrece <b>privacidad, entorno natural y una vista abierta al cordón montañoso Chapelco</b>, en una zona de creciente desarrollo residencial y turístico.<br></p><p><br></p><div>📍 <b>Lote de 1.135,69 m²</b><br></div><div>✔ Servicios de <b>luz y gas por red</b><br></div><div>✔ <b>Pendiente irregular aprovechable</b>, ideal para una implantación escalonada que destaque las vistas<br></div><div>✔ Calle tranquila, baja circulación, dentro del barrio <b>Kaleuche</b> con <b>acceso fácil y rápido al centro</b><br></div><p><br></p><p><br></p><div>💡 <b>Ideal para construir y luego vender</b><br></div><div>Una oportunidad pensada para desarrolladores o inversores que buscan transformar tierra en valor. También perfecto para quien proyecta una primera vivienda o cabaña con retorno futuro.<br></div><p><br></p><p><br></p><div>💰 <b>Valor: USD 45.000</b><br></div><div>✔ Se acepta <b>entrega inicial</b><br></div><div>✔ Posibilidad de <b>financiación directa</b><br></div><p><br></p><p>Este lote es para vos si buscás:<br></p><ul><li><p>Un terreno con vistas despejadas y buena orientación<br></p></li><li><p>Ubicación conectada pero en contacto con la naturaleza<br></p></li><li><p>La posibilidad de construir en etapas y capitalizar la inversión<br></p></li><li><p>Un desarrollo propio, en escala accesible<br></p></li></ul><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-71.31561222293286</longitude>
+			<latitude>-40.10824026727941</latitude>
+			<altitude>987.7857323094249</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>398.3454271021766</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02F647BF173EF20E6B81</styleUrl>
+		<Point>
+			<coordinates>-71.31739738194605,-40.10845777157749,1002.520329294592</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="0E005E43583901A7297F">
+		<name>LOTE VEGA MAIPU</name>
+		<description><![CDATA[<div><div>Vega Maipu<br></div><div>Lote individual o en conjunto<br></div><div>uf 9/ uf 8<br></div><div>589,26 m2 c/u&nbsp;<br></div><div>x2 1.178 m2<br></div><div><br></div><div>Todos lo s servicios por red<br></div><div>Luz, agua y gas<br></div><div><br></div><div>230 mil usd conjunto&nbsp;<br></div><div>130 mil usd individual<br></div><div><br></div><li><p><b>Consultar al municipio</b> si permiten construir en 1.178 m² bajo un proyecto especial.<br></p></li><li><p><b>Englobar más lotes para llegar a 3.000 m²</b> y evitar trámites especiales.<br></p></li><li><p><b>Evaluar un uso liviano</b> (como depósito o galpón abierto) que no requiera edificación formal.<br></p></li><div>VER ORDENANZA// CONSULTAR MUNICIPIO<br></div><div><br></div></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-71.25082880912707</longitude>
+			<latitude>-40.12602610069749</latitude>
+			<altitude>748.9492309091748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>758.3177889283252</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02F647BF173EF20E6B81</styleUrl>
+		<Point>
+			<coordinates>-71.25133579080001,-40.12587734902962,748.9024523090189</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="08EC67BAD7396ED8582C">
+		<name>LOTE j. CALDERON</name>
+		<description><![CDATA[<div>Terreno en venta con potencial de desarrollo<br></div><div>📍 José Calderón esquina, frente al Arroyo Pocahullo – San Martín de los Andes<br></div><div><br></div><div>Superficie: 229,52 m²<br></div><div><br></div><div>Frente: 17,58 m<br></div><div><br></div><div>Zonificación: Área Residencial Intermedia (ARI)<br></div><div><br></div><div>FOT: 1.20 | FOS: 50 %<br></div><div><br></div><div>Altura máxima: PB + 2 pisos (9,5 m)<br></div><div><br></div><div>Usos permitidos: vivienda unifamiliar o colectiva, alojamiento turístico, local profesional o comercial<br></div><div><br></div><div>Cuenta con una construcción existente a demoler<br></div><div><br></div><div>Ubicación estratégica, entorno natural, ideal para desarrollo.<br></div><div>Requiere excepción por superficie mínima (360 m²), con viabilidad de aprobación.<br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-71.34908096965835</longitude>
+			<latitude>-40.15188819337922</latitude>
+			<altitude>651.968030140875</altitude>
+			<heading>72.59471264989418</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500.0541102958961</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02F647BF173EF20E6B81</styleUrl>
+		<Point>
+			<coordinates>-71.3486372763839,-40.15157949635648,652.1787908676293</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="080F9D724439870E2EBB">
+		<name>TERRENO MIRALEJOS</name>
+		<description><![CDATA[<div><span style="color: rgba(0, 0, 0, 0.55); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: &quot;Proxima Nova&quot;, -apple-system, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 20px;"><b>Para el verdadero amante de la montaña –</b></span></span></span><b></b><br></div><div><span style="color: rgba(0, 0, 0, 0.55); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: &quot;Proxima Nova&quot;, -apple-system, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 20px;"><b>Lote de 6.849 m² en Estancia Miralejos</b></span></span></span><b></b><br></div><div><span style="color: rgba(0, 0, 0, 0.55); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: &quot;Proxima Nova&quot;, -apple-system, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 20px;"><b>San Martín de los Andes – A 1.400 msnm con vistas a la precordillera</b></span></span></span><b></b><br></div><div><b></b><br></div><div><span style="color: rgba(0, 0, 0, 0.55); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: &quot;Proxima Nova&quot;, -apple-system, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 20px;"><b>Si sentís que tu lugar está entre las alturas, rodeado de naturaleza salvaje y silencios que te conectan con lo esencial, este lote es para vos.</b></span></span></span><b></b><br></div><div><b></b><br></div><div><span style="color: rgba(0, 0, 0, 0.55); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: &quot;Proxima Nova&quot;, -apple-system, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 20px;"><b>Ubicado en la zona más alta de Estancia Miralejos, este terreno de 6.849 m² ofrece una inmersión total en el paisaje patagónico. Rodeado de bosques nativos y con vistas imponentes a la precordillera, es el punto de partida para construir una vida auténtica, lejos del ruido y cerca de todo lo que importa.</b></span></span></span><b></b><br></div><div><b></b><br></div><div><span style="color: rgba(0, 0, 0, 0.55); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: &quot;Proxima Nova&quot;, -apple-system, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 20px;"><b>Todos los servicios subterráneos: luz, agua, gas y fibra óptica.</b></span></span></span><b></b><br></div><div><span style="color: rgba(0, 0, 0, 0.55); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: &quot;Proxima Nova&quot;, -apple-system, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 20px;"><b>Incluye proyecto aprobado por el reconocido estudio de arquitectura Velazco Suárez, para una vivienda unifamiliar de 203,66 m², diseñada para integrarse armónicamente con el entorno.</b></span></span></span><b></b><br></div><div><b></b><br></div><div><span style="color: rgba(0, 0, 0, 0.55); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: &quot;Proxima Nova&quot;, -apple-system, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 20px;"><b>Miralejos es un exclusivo club de campo de 430 hectáreas, con acceso interno al centro de esquí Chapelco, a solo 30 minutos del centro de San Martín de los Andes. Un entorno que invita a vivir cada estación de manera intensa y real.</b></span></span></span><b></b><br></div><div><b></b><br></div><div><span style="color: rgba(0, 0, 0, 0.55); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: &quot;Proxima Nova&quot;, -apple-system, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 20px;"><b>Ideal para espíritus libres, exploradores modernos, familias conscientes o quienes buscan habitar la montaña con respeto y visión.</b></span></span></span><b></b><br></div><div><br></div><div><br></div><div><br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-71.27766425426158</longitude>
+			<latitude>-40.17011320889445</latitude>
+			<altitude>1355.23888762836</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4110.732296408387</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02F647BF173EF20E6B81</styleUrl>
+		<Point>
+			<coordinates>-71.26981144609729,-40.17403342058235,1443.772087152573</coordinates>
+		</Point>
+	</Placemark>
+<Placemark id="039AC08FFF3B2D9D17D7">
+		<name>uf 42 E. MIRALEJOS</name>
+		<description><![CDATA[<div><span style="color: rgba(0, 0, 0, 0.55); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: pre-line; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline;"><span class="font" style="font-family: &quot;Proxima Nova&quot;, -apple-system, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 20px;">Terreno en Estancia Miralejos Club de Campo – Un Refugio Exclusivo
+
+¿Buscas un lugar donde la naturaleza y la exclusividad se encuentren? Este terreno en Estancia Miralejos Club de Campo es tu oportunidad para construir el hogar de tus sueños en un entorno de ensueño. Ubicado en una zona privilegiada, ofrece vistas impresionantes al lago Lacar 360° y al majestuoso volcán Lanín, un espectáculo natural que te dejará sin aliento.
+
+Imagina vivir cada estación del año en armonía con la naturaleza:
+- Invierno: Paisajes nevados y pistas de esquí a un paso de tu puerta.
+- Primavera: Explosión de colores y vida en el parque nacional.
+- Verano: Días de sol y aventuras en el lago y la montaña.
+- Otoño: Un mar de colores que te rodea en cada rincón.
+
+Este terreno cuenta con todos los servicios subterráneos necesarios para una vida cómoda y moderna:
+- Agua: Acceso a agua potable de alta calidad.
+- Luz: Servicio eléctrico confiable y seguro.
+- Gas: Acceso a gas natural para calefacción y cocina.
+- Fibra Óptica: Conexión a internet de alta velocidad para estar siempre conectado.
+
+El terreno es el lienzo perfecto para que crees tu refugio de montaña, con acceso a todos los servicios y comodidades del club de campo. Disfruta de la tranquilidad y la privacidad que solo un entorno exclusivo como este puede ofrecer.
+
+Ubicación: Estancia Miralejos Club de Campo.
+
+Consultanos para conocer más detalles o coordinar una visita.
+
+INVERTI EN NATURALEZA.
+
+Denise Catalán Bienes Raíces.
+Inmobiliaria boutique – San Martín de los Andes- Patagonia, Argentina.</span></span></span><br></div>]]></description>
+		<LookAt>
+			<longitude>-71.28413379151372</longitude>
+			<latitude>-40.15823284662673</latitude>
+			<altitude>1181.840276949651</altitude>
+			<heading>20.0032651269655</heading>
+			<tilt>7.496981101742413</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>707.981188545964</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_36206C07643EF20E6B84</styleUrl>
+		<Point>
+			<coordinates>-71.28416436287861,-40.15871384022447,1192.070482669499</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
